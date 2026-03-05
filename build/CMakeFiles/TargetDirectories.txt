@@ -1,0 +1,3 @@
+/run/media/darkness/nOS/Dev/C++Projects/Exercises/Class/CustomSTL/build/CMakeFiles/stl_test.dir
+/run/media/darkness/nOS/Dev/C++Projects/Exercises/Class/CustomSTL/build/CMakeFiles/edit_cache.dir
+/run/media/darkness/nOS/Dev/C++Projects/Exercises/Class/CustomSTL/build/CMakeFiles/rebuild_cache.dir
